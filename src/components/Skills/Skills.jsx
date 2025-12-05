@@ -1,4 +1,4 @@
-function Skills(props) {
+const Skills = (props) => {
     return (
         <div></div>
     );

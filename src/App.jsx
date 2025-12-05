@@ -1,4 +1,4 @@
-import {Header, Footer, Home, About} from './components'
+import {Header, Footer, Home, About, SkillsInfo} from './components'
 
 function App() {
 
@@ -11,6 +11,7 @@ function App() {
                     <h1>React Portfolio</h1>
                 </div>
                 <About/>
+                <SkillsInfo/>
             </main>
             <Footer/>
         </>

@@ -26,7 +26,7 @@ const Nav = ({isMenuOpen}) =>  {
             {/*        <a href="#about" className="nav-link">About</a>*/}
             {/*    </li>*/}
             {/*    <li className="nav-item">*/}
-            {/*        <a href="#skills" className="nav-link">Skills</a>*/}
+            {/*        <a href="#skills" className="nav-link">SkillsInfo</a>*/}
             {/*    </li>*/}
             {/*    <li className="nav-item">*/}
             {/*        <a href="#services" className="nav-link">Services</a>*/}
